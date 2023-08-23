@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **EduShark**
 
-- 🌱 I’m currently learning **NextJs, Zustand, ReactJs**
+- 🌱 I’m currently learning **NextJs, Zustand, ReactJs, AI, Ml**
 
 - 💬 Ask me about **HTML, CSS, Js, Reactjs, NextJs**
 
