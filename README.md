@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/satyamraj961686" target="blank"><img src="https://img.shields.io/twitter/follow/satyamraj961686?logo=twitter&style=for-the-badge" alt="satyamraj961686" /></a> </p>
 
+- 🔭 I’m currently working on **EduShark**
+
+- 🌱 I’m currently learning **NextJs, Zustand, ReactJs**
+
+- 💬 Ask me about **HTML, CSS, Js, Reactjs, NextJs**
+
+- 📫 How to reach me **sattu62025@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/iamsatyamraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamsatyamraj" height="30" width="40" /></a>
